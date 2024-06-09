@@ -6,7 +6,7 @@
 
 <div align="center">
 
-# nonebot-plugin-sparkapi
+# nonebot-plugin-multigpt
 
 _✨一个多模态AI聊天插件✨_
 
