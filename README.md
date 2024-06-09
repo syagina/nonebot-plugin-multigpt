@@ -121,10 +121,10 @@ _✨一个多模态AI聊天插件✨_
 ### 注意需要绘画时请切换绘画模型例如dalle-3(参考你的转发站或openai)
 
 ### 效果图
-![demo](https://github.com/syagina/nonebot_plugin_multigpt/blob/main/Camera%20Roll/86BBB3B88A69B4C7C7130A7CFA68C25E.png)
-![demo](https://github.com/syagina/nonebot_plugin_multigpt/blob/main/Camera%20Roll/E7294EC967D68DA403EC4AB5C00DB116.png)
-![demo](https://github.com/syagina/nonebot_plugin_multigpt/blob/main/Camera%20Roll/E88CC601B4A6F79FC27CBC21328C21B3.png)
-![demo](https://github.com/syagina/nonebot_plugin_multigpt/blob/main/Camera%20Roll/3226a38ad4d946b203b64be2b674d271.jpg)
+![demo](https://github.com/syagina/nonebot-plugin-multigpt/blob/main/Camera%20Roll/86BBB3B88A69B4C7C7130A7CFA68C25E.png)
+![demo](https://github.com/syagina/nonebot-plugin-multigpt/blob/main/Camera%20Roll/E7294EC967D68DA403EC4AB5C00DB116.png)
+![demo](https://github.com/syagina/nonebot-plugin-multigpt/blob/main/Camera%20Roll/E88CC601B4A6F79FC27CBC21328C21B3.png)
+![demo](https://github.com/syagina/nonebot-plugin-multigpt/blob/main/Camera%20Roll/3226a38ad4d946b203b64be2b674d271.jpg)
 
 ## PPT制作代码
 
