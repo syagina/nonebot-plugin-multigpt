@@ -18,9 +18,7 @@ from .model import manager # type: ignore
 from nonebot.log import logger
 
 from .config import Config 
-# plugins/friend_request.py
 
-# 创建一个新的请求处理器，用于好友请求
 
 
 plugin_config = Config.parse_obj(nonebot.get_driver().config.dict())
