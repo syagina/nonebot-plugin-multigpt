@@ -20,7 +20,7 @@ from nonebot.adapters.onebot.v11 import (
     MessageEvent,
     Bot
 )
-from . import chat
+from 。 import chat
 from nonebot.typing import T_State
 from nonebot.params import ArgPlainText
 from nonebot.log import logger
@@ -33,11 +33,7 @@ __plugin_meta__ = PluginMetadata(
     usage="论文",
     type='application',
     homepage="https://github.com/syagina/nonebot-plugin-multigpt",
-    config=Config,
-    supported_adapters={"~onebot.v11"},
-    extra = {
-        "author": "syagina"
-    }
+    supported_adapters=inherit_supported_adapters("nonebot_plugin_localstore"),
 )
 plugin_config = Config.parse_obj(nonebot.get_driver().config.dict())
 
