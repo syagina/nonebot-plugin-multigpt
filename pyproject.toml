@@ -1,0 +1,33 @@
+[tool.poetry]
+name = "nonebot-plugin-multigpt"
+version = "3.4"
+description = "nonebot插件-多模ai工具"
+authors = ["syagina <3173707804@qq.com>"]
+license = "Apache License 2.0"
+readme = "README.md"
+packages = [{ include = "nonebot-plugin-multigpt" }]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+nonebot2 = "^2.0.0rc3"
+openai = ">=0.27.0,<=0.28.0"
+nonebot-adapter-onebot = "^2.2.1"
+httpx = "^0.24.1"
+anyio = "^3.6.2"
+aiohttp = "^3.8.4"
+nonebot_plugin_localstore="^0.6.0"
+typing-extensions="^4.0.0"
+pydantic=">=1.10.0,<3.0.0,!=2.5.0,!=2.5.1"
+python-docx="^1.1.2"
+python-pptx="^0.6.23"
+markdown2="^2.4.13"
+[tool.poetry.group.dev.dependencies]
+nb-cli = "^1.2.8"
+nonebot2 = {extras = ["fastapi"], version = "^2.1.2"}
+
+
+
+[tool.nonebot]
+plugins = ["nonebot-plugin-multigpt"]
+plugin_dirs = []
+builtin_plugins = []
