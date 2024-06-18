@@ -37,7 +37,6 @@ _✨一个多模态AI聊天插件✨_
 ### 📦 项目地址
 - Github：https://github.com/syagina/nonebot-plugin-multigpt
 - Pypi：https://pypi.org/project/nonebot-plugin-multigpt/
-- Nonebot：https://registry.nonebot.dev/plugin/nonebot-plugin-multigpt:nonebot-plugin-multigpt
 - 觉得好用的话，请给个 Star⭐️ 谢谢喵~ 
 
 ## 💿 安装
